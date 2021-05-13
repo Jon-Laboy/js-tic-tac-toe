@@ -1,0 +1,1 @@
+when starting up for day do git ' pull origin main ' --master for older  -- to keep files locally up to date with the remot repo just in case any other developers have made any changes 
