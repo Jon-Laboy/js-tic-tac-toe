@@ -1,0 +1,7 @@
+WORKING WITH OTHERS 
+
+1) when starting up for day do 'git pull origin main '  --master for older  -- to keep files locally up to date with the remote main repo  just in case any other developers have made any changes
+
+2) DO NOT MERGE BRANCH INTO MAIN BRANCH LOCALLY AND PUSH it will then change the main branch remotely 
+   !! PUSH THE BRANCH UP TO THE REMOTE INSTEAD ! -  'git push origin feature-3 (the branch)`
+
