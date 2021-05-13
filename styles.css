@@ -10,6 +10,11 @@
   --mark-size: calc(var(--cell-size) * 0.9);
 }
 
+body {
+  margin: 20px;
+  padding: 600px; 
+}
+
 .game-title {
   text-align: center;
   margin-top:5.1rem;
