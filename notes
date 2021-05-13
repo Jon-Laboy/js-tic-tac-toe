@@ -8,4 +8,5 @@ WORKING WITH OTHERS
 3.) THEN CREATE PULL REQUEST by clicking compare & pull request
     - leave note about what did ..people can view and leave comments and managers / devs can be assigned as reviewers  
 
-4.) later one someone says hey you missed something or need to update something from something you pushed and had merged --- before you start make sure to `git pull origin main`
+4.) later one someone says hey you missed something or need to update something from something you pushed and had merged --- before you start make sure to `git pull origin main` by going to main branch and doing that pull to make sure you are up to date.
+
