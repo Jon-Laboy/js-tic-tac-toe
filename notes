@@ -10,3 +10,7 @@ WORKING WITH OTHERS
 
 4.) later one someone says hey you missed something or need to update something from something you pushed and had merged --- before you start make sure to `git pull origin main` by going to main branch and doing that pull to make sure you are up to date.
 
+ -- like hey missing notes --create new branch to handle this update since the old one was merged (like note-update or image-update branches)
+
+ --push that new branch to the branch remotely and make a pull request. 
+    --if then they leave a comment saying hey add this or this is missing and do it before merging then stay on that same branch fix and push again .. no need to make a new branch since it has not been merged yet..
